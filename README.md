@@ -1,1 +1,4 @@
 # privilegescalat
+Linux
+
+Windows
