@@ -1,4 +1,2 @@
 # privilegescalat
-Linux
-
-Windows
+Windows privilege
