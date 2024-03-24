@@ -1,3 +1,3 @@
 # privilegescalat
 Windows privilege
-For learning and exchange only
+for learning and exchange only
